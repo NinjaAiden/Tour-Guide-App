@@ -1,0 +1,56 @@
+<resources>
+    <string name="app_name">Tour Guide App</string>
+
+    <string name="food_category">Food</string>
+    <string name="shopping_category">Shopping</string>
+    <string name="history_category">History</string>
+    <string name="events_category">Events</string>
+
+    <!-- Shopping category -->
+    <string name="oracle">The Oracle</string>
+    <string name="oracle_description">Spanning the river Thames, this shopping mall contains a large
+        number of stores, restaurants and even a movie theater.</string>
+    <string name="broad_street">Broad Street</string>
+    <string name="broad_street_shop_description">This quarter mile long, pedestrianized road is home
+        to a wide range of stores and coffee shops.</string>
+    <string name="broad_street_mall">Broad Street Mall</string>
+    <string name="broad_street_mall_description">Situated at the very end of Broad Street, this
+        shopping center has a range of clothing and toy stores, as well as a small food court.</string>
+
+    <!-- History category-->
+    <string name="abbey">Reading Abbey</string>
+    <string name="abbey_description">The ruins of this 12th century abbey are in a large area to the
+        west of Reading\'s town center</string>
+    <string name="forbury">Forbury Gardens</string>
+    <string name="forbury_description">Spanning a large area next to Reading Abbey, this park is a
+        beautiful place to visit in warm weather and is home to the Maiwand Lion, a memorial to
+        soldiers from the Afghan wars.</string>
+    <string name="museum">Reading Museum</string>
+    <string name="museum_description">This museum, adjoining the town hall, is home to many exhibits,
+        including roman artifacts from excavations in a nearby village and a replica of the Bayeux Tapestry.</string>
+
+    <!-- Food category -->
+    <string name="riverside">The Oracle Riverside</string>
+    <string name="riverside_description">This area of the oracle, covering a large area on both sides
+        of the River Kennet, has every kind of food you could want. From burgers to tapas.</string>
+    <string name="broad_street_food_description">This shopping high street also has a large number of
+        coffee shops and cafes, both on the street itself and along the sprawling alleys and side streets.</string>
+    <string name="oxford_road">Oxford Road</string>
+    <string name="oxford_road_description">The eastern mile of this road is home to every kind of
+        takeaway imaginable. Don\'t feel like going to a restaurant? Come to Oxford road and have a kebab!</string>
+
+    <!-- Events category -->
+    <string name="festival">Reading Festival</string>
+    <string name="festival_description">An annual rock music festival that takes place over the
+        August bank holiday weekend. Campsites are available at the site and weekend tickets include camping.</string>
+    <string name="pride">Reading Pride</string>
+    <string name="pride_description">A yearly LGBTA pride festival that takes place in August the
+        weekend after Reading Festival. The festival aims to promote diversity and equality, while
+        raising money for charity.</string>
+    <string name="beer_and_cider">Reading Beer and Cider Festival</string>
+    <string name="beer_and_cider_description">Organised by \'The campaign for real ale\', this festival takes place
+        every year in early May and offers a wide variety of beers, ciders, and cask ales.</string>
+
+    <string name="hello_blank_fragment">hello world</string>
+
+</resources>

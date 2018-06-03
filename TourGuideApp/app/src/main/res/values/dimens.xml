@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="list_item_height">120dp</dimen>
+    <dimen name="description_pad_t">8dp</dimen>
+    <dimen name="pad_left">8dp</dimen>
+</resources>
